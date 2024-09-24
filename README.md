@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ECB1227
+- 👀 I’m interested in making good, high quality games that i can be proud to call my own creations
+- 🌱 I’m currently learning godot and blender after using industry standards for school
+- 📫 How to reach me ECB1227@hotmail.com
